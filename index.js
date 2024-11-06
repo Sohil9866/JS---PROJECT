@@ -9,7 +9,7 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = event.target.id;
     }
     if (event.target.id === `yellow`) {
-      body.style.backgroundColor = event.target.id;
+      body.styl2e.backgroundColor = event.target.id;
     }
     if (event.target.id === `grey`) {
       body.style.backgroundColor = event.target.id;
